@@ -297,6 +297,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1462723776
 GameObject:
   m_ObjectHideFlags: 0
@@ -390,6 +391,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> ca4e9f2aeda5dd10bf988691e515de1d7988e916
 --- !u!1 &1988462413
 GameObject:
   m_ObjectHideFlags: 0
@@ -440,7 +443,15 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2a1023cb8b628964d92e932d719e061b, type: 2}
+<<<<<<< HEAD
+  - {fileID: 2100000, guid: dcc44bb463a5f9f49bd8c8b72c40abd1, type: 2}
+=======
+<<<<<<< HEAD
+  - {fileID: 2100000, guid: f5b9bf478922a3d478b204961795427a, type: 2}
+=======
+  - {fileID: 2100000, guid: ac08ada76977ff643997932b2e2efe8b, type: 2}
+>>>>>>> 01
+>>>>>>> c644981c2b5256fc7a165f326249cd3a6816c61e
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -483,6 +494,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &2022015984
 GameObject:
   m_ObjectHideFlags: 0
@@ -576,3 +588,5 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> ca4e9f2aeda5dd10bf988691e515de1d7988e916
